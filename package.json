@@ -1,0 +1,14 @@
+{
+  "name": "packing-algo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon main.js"
+  },
+  "author": "Umar",
+  "license": "ISC",
+  "dependencies": {
+    "thenby": "^1.3.4"
+  }
+}
