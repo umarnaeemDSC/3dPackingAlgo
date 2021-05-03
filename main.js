@@ -1,6 +1,6 @@
-const Item = require('./Item');
-const Box = require('./Box');
-const {Packer, PACKING_METHODS} = require('./Packer');
+const Item = require('./models/Item');
+const Box = require('./models/Box');
+const {Packer, PACKING_METHODS} = require('./models/Packer');
 
 const items = [
     new Item('TMX75', 51.2, 66.5, 76, 1),
